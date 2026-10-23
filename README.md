@@ -9,3 +9,4 @@ Looking for a **1-year internship** (April 2027) in software engineering, AI eng
 [![Portfolio](https://img.shields.io/badge/Portfolio-hashinnn.github.io-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hashinnn.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ginjala_Hasini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ginjalahasini)
 [![Email](https://img.shields.io/badge/Email-hasinirg7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasinirg7@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hashinnn&color=0f172a&style=for-the-badge)
